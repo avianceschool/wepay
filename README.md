@@ -1,5 +1,4 @@
-# wepay
-# wepay payment gateway integration in php
+# wepay integration in php
 
 WePay's API allows you to easily add payments into your application.
 
@@ -14,5 +13,8 @@ $account_id = xxxxxxxxx;
 
 Step 2: 
 Upload the files in your root directory.
+
+For more in details please visit https://developer.wepay.com/
+
 
 Email us at technologiesaviance@gmail.com if you will find any issues.
