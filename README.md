@@ -1,5 +1,6 @@
 # wepay
 wepay payment gateway integration in php
+WePay's API allows you to easily add payments into your application.
 Step 1:Replace the below credentials in checkout.php file.
 $client_id = "xxxxx";
 $client_secret = "xxxxxxxxxx";
